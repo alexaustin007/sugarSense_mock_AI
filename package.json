@@ -1,0 +1,25 @@
+{
+  "name": "sugarsense_mock_ai",
+  "version": "1.0.0",
+  "description": "creating MVP for the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexaustin007/sugarSense_mock_AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexaustin007/sugarSense_mock_AI/issues"
+  },
+  "homepage": "https://github.com/alexaustin007/sugarSense_mock_AI#readme",
+  "dependencies": {
+    "lucide-react": "^0.477.0",
+    "react": "^19.0.0",
+    "recharts": "^2.15.1"
+  }
+}
